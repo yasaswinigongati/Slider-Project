@@ -16,4 +16,4 @@ This project is a simple **image slider** built using **HTML, CSS, and JavaScrip
 - CSS  
 - JavaScript  
 
-Enjoy the slider! 🎉
+Enjoy the slider!
