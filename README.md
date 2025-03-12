@@ -15,5 +15,3 @@ This project is a simple **image slider** built using **HTML, CSS, and JavaScrip
 - HTML  
 - CSS  
 - JavaScript  
-
-Enjoy the slider!
